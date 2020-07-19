@@ -1,0 +1,15 @@
+C:\Users\aaoli\source\repos\Template\Template\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\aaoli\source\repos\Template\Template\Dominio\bin\Debug\Dominio.dll
+C:\Users\aaoli\source\repos\Template\Template\Dominio\bin\Debug\Dominio.pdb
+C:\Users\aaoli\source\repos\Template\Template\Dominio\bin\Debug\EntityFramework.dll
+C:\Users\aaoli\source\repos\Template\Template\Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aaoli\source\repos\Template\Template\Dominio\bin\Debug\MySql.Data.dll
+C:\Users\aaoli\source\repos\Template\Template\Dominio\bin\Debug\mysql.data.entity.EF6.dll
+C:\Users\aaoli\source\repos\Template\Template\Dominio\bin\Debug\Ninject.dll
+C:\Users\aaoli\source\repos\Template\Template\Dominio\bin\Debug\EntityFramework.xml
+C:\Users\aaoli\source\repos\Template\Template\Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aaoli\source\repos\Template\Template\Dominio\bin\Debug\Ninject.xml
+C:\Users\aaoli\source\repos\Template\Template\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\aaoli\source\repos\Template\Template\Dominio\obj\Debug\Dominio.dll
+C:\Users\aaoli\source\repos\Template\Template\Dominio\obj\Debug\Dominio.pdb
+C:\Users\aaoli\source\repos\Template\Template\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
